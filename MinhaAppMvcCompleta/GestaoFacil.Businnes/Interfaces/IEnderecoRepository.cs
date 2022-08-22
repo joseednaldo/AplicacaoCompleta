@@ -8,6 +8,6 @@ namespace GestaoFacil.Businnes.Interfaces
 {
     public interface IEnderecoRepository : IRepository<Endereco>
     {
-        Task<Endereco> ObterEnderecoPorFornecedor(Guid forncedorId);
+        Task<Endereco> ObterEnderecoPorFornecedor(Guid forncedorId);\\ed
     }
 }
