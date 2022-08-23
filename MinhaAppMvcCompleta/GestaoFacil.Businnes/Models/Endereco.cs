@@ -8,7 +8,6 @@ namespace GestaoFacil.Businnes.Models
 {
     public class Endereco : Entity 
     {
-        public Guid FornecedorId { get; set; }  //fk
 
         public string Logradouro { get; set; }
 
