@@ -13,7 +13,7 @@ namespace GestaoFacil.App.Data
             : base(options)
         {
         }
-        //public DbSet<GestaoFacil.App.ViewModels.ProdutoViewModel> ProdutoViewModel { get; set; }
+        //qpublic DbSet<GestaoFacil.App.ViewModels.ProdutoViewModel> ProdutoViewModel { get; set; }
         //public DbSet<GestaoFacil.App.ViewModels.EnderecoViewModel> EnderecoViewModel { get; set; }
     }
 }
